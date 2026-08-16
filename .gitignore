@@ -1,0 +1,10 @@
+build/
+build-windows/
+*.exe
+*.o
+*.obj
+*.a
+*.lib
+*.out
+.vscode/
+.idea/
