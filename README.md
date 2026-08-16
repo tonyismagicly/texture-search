@@ -61,7 +61,7 @@ Windows builds require the CUDA Toolkit and MSVC.
 
 Run:
 
-    build-windows.bat
+    build.bat
 
 The executable will be created at:
 
